@@ -45,8 +45,9 @@ Please refer to the data source for detailed information about the dataset. You 
 After downloading the dataset I have queried the data using MySQL Workbench & then imported that file into Power BI by connecting it to MySQL Database.
 
 ## Technologies Used
-- Power BI
+- Microsoft Excel
 - MySQL Workbench
+- Power BI
 
 ## Dashboard
 Link - https://github.com/Rupanavale/EDA-Using-Power-BI/blob/main/Restaurants%20pb.pbix
