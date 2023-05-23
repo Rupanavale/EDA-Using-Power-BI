@@ -41,14 +41,15 @@ git clone https://github.com/Rupanavale/EDA-Using-Power-BI/edit/main/README.md
 The dataset used in this project is sourced from [https://www.kaggle.com/datasets/arnabchaki/indian-restaurants-2023]. The Dineout dataset includes thousands of restaurants with attributes such as location data, average rating, number of reviews, cuisine types, etc.
 The dataset combines the restaurants from the main Indian cities.
 
-Please refer to the data source for detailed information about the dataset. You can find Dataset here too : [https://github.com/Rupanavale/EDA-of-Dineout-Using-MySQL/blob/main/Restaurants.csv]
+Please refer to the data source for detailed information about the dataset. You can find Dataset here too : [https://github.com/Rupanavale/EDA-Using-Power-BI/blob/main/Restaurants.csv]
+After downloading the dataset I have queried the data using MySQL Workbench & then imported that file into Power BI by connecting it to MySQL Database.
 
 ## Technologies Used
 - Power BI
 - MySQL Workbench
 
 ## Dashboard
-Link - https://github.com/Rupanavale/EDA-of-Dineout-Using-MySQL/blob/main/Restaurants%20pb.pbix
+Link - https://github.com/Rupanavale/EDA-Using-Power-BI/blob/main/Restaurants%20pb.pbix
 ![image](https://github.com/Rupanavale/EDA-of-Dineout-Using-MySQL/assets/109949193/16aabcc4-0d02-4e65-9d68-3b05dd656d10)
 
 ## Insights
